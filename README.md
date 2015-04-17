@@ -1,4 +1,4 @@
 # 
 
-Data.Yaml example
+Haskell Data.Yaml example
 
